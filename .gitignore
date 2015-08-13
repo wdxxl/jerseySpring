@@ -1,0 +1,10 @@
+# Maven #
+bin/
+
+# Eclipse #
+.settings/
+.classpath
+.project
+/build/
+target/
+
